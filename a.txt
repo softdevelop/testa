@@ -6,3 +6,6 @@ QWerty
 Sau rebase (da push sau rebase)
 
 New commit after rebase & gop V1
+New commit V3
+New commit V4
+New commit V5
